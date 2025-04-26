@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Tech News</title>
+    <link>https://yourwebsite.com</link>
+    <description>The latest tech articles updated automatically.</description>
+    <language>ar</language>
+
+    <item>
+      <title>Article 1: Secrets of Artificial Intelligence</title>
+      <link>https://yourwebsite.com/articles/ai-secrets</link>
+      <description>Discover the top secrets of artificial intelligence in this special article.</description>
+      <pubDate>Fri, 25 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Article 2: Best Apps of 2025</title>
+      <link>https://yourwebsite.com/articles/best-apps-2025</link>
+      <description>Discover the best apps you should use in 2025.</description>
+      <pubDate>Fri, 25 Apr 2025 13:00:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
